@@ -14,7 +14,6 @@ html {
     scroll-behavior: smooth;
 }
 
-/* Navbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaar */
 .navbar {
     background-color: #1e202b;
     cursor: pointer;
@@ -72,7 +71,6 @@ h1 {
     color: #009ad8;
 }
 
-/*Weather Infooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo*/
 
 .landing {
     background-color: #1e202b;
@@ -253,7 +251,6 @@ span {
     padding: 10px 20px 40px;
 }
 
-/*Fooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooter */
 .footer {
     background-color: #262936;
     overflow: hidden;
@@ -301,7 +298,6 @@ span {
     margin-left: 20px;
 }
 
-/* Conacttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt */
 .contact {
     color: white;
     background-color: #1e202b;
